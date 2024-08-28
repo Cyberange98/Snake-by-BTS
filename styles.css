@@ -1,0 +1,57 @@
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-image: url('bts-suga-black-swan-ytdxcorghlme7cu6.webp'); /* Assurez-vous que le chemin de l'image est correct */
+    background-size: cover;
+    background-position: center top;
+    background-repeat: no-repeat;
+    color: #fff;
+}
+
+h1 {
+    margin-bottom: 20px;
+    color: #ffffff; /* Couleur blanche */
+    font-weight: bold; /* Gras */
+}
+
+#playerInfo label {
+    color: #ffffff; /* Couleur blanche */
+    font-weight: bold; /* Gras */
+    margin-right: 10px;
+}
+
+#playerInfo {
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+canvas {
+    border: 1px solid #fff;
+    background-image: url('bts-suga-black-swan-ytdxcorghlme7cu6.webp');
+    background-size: cover;
+    background-position: center top;
+    background-repeat: no-repeat;
+    background-color: rgba(0, 0, 0, 0.7); /* Fond noir transparent */
+    width: 600px;
+    height: 600px;
+}
+
+#scoreBoard {
+    margin-top: 20px;
+    text-align: center;
+    color: #8A2BE2; /* Purple pour les scores */
+    font-weight: bold; /* Gras pour les scores */
+}
+
+
+
+
+
+
+
+
